@@ -35,127 +35,135 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The preacher, or Methode of preachinge, vvrytten in Latine by Nich[olas] Hemminge, and translated in
+
+1. To the right Honourable Dougles Lady Sheffeld, late wyfe of Lord Iohn Sheffeld diſceaſed: Iohn Horſfall, her moſt humble and faithfull ſeruaunt wiſheth all health and godlines long to continue vvith increaſe of vertue and zeale in Religion. (⁂)
+
+1. To his brethren and fellowe Miniſters of the Churche of Chriſte in Englād, the interpretour wiſheth peace, & true knowledge, to the honour & glory of God, and to the edification of the ſayde Churche, by true vnderſtanding and ſince preaching of the woorde of GOD.
+I haue to deſire thee (Chriſtian Reader) to beare with ſome faultes eſcaped in the Printing, yt whic
+1. The contentes of this booke.
+
 #####Body#####
 
-1. ¶ The firſt deuiſion.
+1. ❧ The deuiſion of the Holy Scriptures.
 
-1. ¶ The ſubdiuiſion.
+    _ ¶ The firſt deuiſion.
 
-1. ¶ The ſecond deuiſion.
+    _ ¶ The ſubdiuiſion.
 
-1. ¶ The third deuiſion.
+    _ ¶ The ſecond deuiſion.
 
-1. ¶ The fourth deuiſion.
+    _ ¶ The third deuiſion.
 
-1. ¶ Of the formes and kindes of Narrations.
+    _ ¶ The fourth deuiſion.
 
-1. ¶ The aydes or helpes of an interpretour.
+    _ ¶ Of the formes and kindes of Narrations.
 
-1. ¶ The cauſes of interpretation.
+    _ ¶ The aydes or helpes of an interpretour.
 
-1. ¶ The kinds of interpretinge.
+    _ ¶ The cauſes of interpretation.
 
-1. ¶ The Grammarian his kind of interpreting.
+    _ ¶ The kinds of interpretinge.
 
-1. ¶ The Logician his kinde of interpreting.
+    _ ¶ The Grammarian his kind of interpreting.
 
-1. ¶ The firſt Cannon.
+    _ ¶ The Logician his kinde of interpreting.
 
-1. ¶ The ſecond Cannon.
+    _ ¶ The firſt Cannon.
 
-1. ¶The thirde Cannon.
+    _ ¶ The ſecond Cannon.
 
-1. ¶ The fourth Canon.
+    _ ¶The thirde Cannon.
 
-1. ¶ The oratour his kind of interpreting.
+    _ ¶ The fourth Canon.
 
-1. ¶ The mixt kinde of interpreting.
+    _ ¶ The oratour his kind of interpreting.
 
-1. ¶ The vſe of Commentaries.
+    _ ¶ The mixt kinde of interpreting.
 
-1. ¶The waye to frame or make holy Sermons.
+    _ ¶ The vſe of Commentaries.
 
-1. ¶ The kinds of Sermons.
+    _ ¶The waye to frame or make holy Sermons.
 
-1. ¶ The kynde of teaching.
+    _ ¶ The kinds of Sermons.
 
-1. ¶ Of the ſimple kinde of teaching which belongeth vnto perſones.
+    _ ¶ The kynde of teaching.
 
-1. Of that treatiſe of perſons whiche belong to examples.
+    _ ¶ Of the ſimple kinde of teaching which belongeth vnto perſones.
 
-1. ¶ Of that kynde of treatiſe of perſones whiche belongeth to demonſtration.
+    _ Of that treatiſe of perſons whiche belong to examples.
 
-1. ¶ Of definition.
+    _ ¶ Of that kynde of treatiſe of perſones whiche belongeth to demonſtration.
 
-1. ¶Of Diuiſion and partition.
+    _ ¶ Of definition.
 
-1. ¶ Of cauſes.
+    _ ¶Of Diuiſion and partition.
 
-1. ¶ Of the effect.
+    _ ¶ Of cauſes.
 
-1. ¶ Of the vſe and abuſe.
+    _ ¶ Of the effect.
 
-1. ¶ Of contarries.
+    _ ¶ Of the vſe and abuſe.
 
-1. ¶ Of the ſimple kinde of teaching called Sintheticall.
+    _ ¶ Of contarries.
 
-1. ¶ Of the ſimple kinde of teaching called Analyticall.
+    _ ¶ Of the ſimple kinde of teaching called Sintheticall.
 
-1. ¶ Of the compound kinde of teachinge.
+    _ ¶ Of the ſimple kinde of teaching called Analyticall.
 
-1. ¶ Of the inuention or findinge out of common places.
+    _ ¶ Of the compound kinde of teachinge.
 
-1. ¶ The firſt Rule.
+    _ ¶ Of the inuention or findinge out of common places.
 
-1. ¶ The ſecond Rule.
+    _ ¶ The firſt Rule.
 
-1. ¶ The thirde Rule.
+    _ ¶ The ſecond Rule.
 
-1. ¶ The fourth rule to make abſtractes.
+    _ ¶ The thirde Rule.
 
-1. ¶ The fift Rule.
+    _ ¶ The fourth rule to make abſtractes.
 
-1. ¶ The ſixt Rule.
+    _ ¶ The fift Rule.
 
-1. ¶ The ſeuenth Rule.
+    _ ¶ The ſixt Rule.
 
-1. ¶ The eight Rule.
+    _ ¶ The ſeuenth Rule.
 
-1. ¶ Of the manner of handling of places inuented, both plentifully and profitably.
+    _ ¶ The eight Rule.
 
-1. ¶ Of the diduction of queſtions.
+    _ ¶ Of the manner of handling of places inuented, both plentifully and profitably.
 
-1. ¶ Of a plentious confirmation.
+    _ ¶ Of the diduction of queſtions.
 
-1. ¶Of the kindes of Proofe.
+    _ ¶ Of a plentious confirmation.
 
-1. ¶ Of the heaping of arguments.
+    _ ¶Of the kindes of Proofe.
 
-1. ¶ Of the Expolition or dilating of Argumentes.
+    _ ¶ Of the heaping of arguments.
 
-1. ¶ Of the confutation.
+    _ ¶ Of the Expolition or dilating of Argumentes.
 
-1. ¶ Of digreſſion.
+    _ ¶ Of the confutation.
 
-1. ¶ Of Artificiall concluſion.
+    _ ¶ Of digreſſion.
 
-1. ¶ Of that kynde of Sermon whiche conſiſteth in exhortation called Parainetical kinde.
+    _ ¶ Of Artificiall concluſion.
 
-1. ¶ Of the perſwaſible Sermon.
+    _ ¶ Of that kynde of Sermon whiche conſiſteth in exhortation called Parainetical kinde.
 
-1. The example of the perſuaſible ſermon.
+    _ ¶ Of the perſwaſible Sermon.
 
-1. ¶ Of the conſolatorie Sermone or whiche conſiſteth in comforting.
+    _ The example of the perſuaſible ſermon.
 
-1. The Methode of geuinge of comforte.
+    _ ¶ Of the conſolatorie Sermone or whiche conſiſteth in comforting.
 
-1. ¶ Of the chidinge Sermon.
+    _ The Methode of geuinge of comforte.
 
-1. ¶ Of Memorie.
+    _ ¶ Of the chidinge Sermon.
+
+    _ ¶ Of Memorie.
 
 #####Back#####
-The preacher, or Methode of preachinge, vvrytten in Latine by Nich[olas] Hemminge, and translated in
+〈1 page duplicate〉〈1 page duplicate〉〈1 page duplicate〉〈1 page duplicate〉〈1 page duplicate〉〈1 page du
 **Types of content**
 
   * There are 29 **verse** lines!
